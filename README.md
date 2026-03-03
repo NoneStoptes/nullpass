@@ -120,7 +120,12 @@ GoatsPass/
 
 ## 🖥️ Скриншоты
 
-> Экран входа / Менеджер паролей / Генератор
+<img width="665" height="664" alt="image" src="https://github.com/user-attachments/assets/f2d4b340-86e8-4083-b69f-f03b158baa70" />
+
+<img width="495" height="680" alt="213" src="https://github.com/user-attachments/assets/5d2f991f-b7ef-49db-b416-ceb1e4638fa6" />
+
+<img width="1911" height="339" alt="imag12231e" src="https://github.com/user-attachments/assets/35145716-e65d-4062-8303-a42491506cc7" />
+
 
 ---
 
@@ -129,7 +134,3 @@ GoatsPass/
 MIT License — делай что хочешь, на свой страх и риск.
 
 ---
-
-<div align="center">
-Made with ❤️ by <a href="https://github.com/necouncil">necouncil</a>
-</div>
