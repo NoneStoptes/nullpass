@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icon.png" width="120" alt="GoatsPass Logo"/>
+<img width="1009" height="485" alt="GoatSec" src="https://github.com/user-attachments/assets/d8f2c198-a6db-4c06-b39a-7d432e4edf4b" />
 
 # GoatsPass
 
